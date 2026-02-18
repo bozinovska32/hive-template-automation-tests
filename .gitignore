@@ -1,0 +1,10 @@
+requirements/
+Plan/
+.env
+node_modules/
+cypress/videos/
+cypress/screenshots/
+cypress/downloads/
+Pages/
+requirements/requirements.md
+requirements/techstack.md
